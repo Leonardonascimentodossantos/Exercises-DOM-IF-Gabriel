@@ -1,0 +1,11 @@
+body {
+    display: flex;
+    align-items: flex-start;
+    flex-direction: column;
+}
+
+img {
+    height: 500px;
+    width: 500px;
+    cursor: pointer;
+}
